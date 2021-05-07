@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540.229" height="459.563" viewBox="0 0 540.229 489.563">
+  <g id="Grupo_53647" data-name="Grupo 53647" transform="translate(126.786 -6.211)">
+    <g id="Grupo_53647-2" data-name="Grupo 53647" transform="translate(-126.786 52.339)">
+      <rect id="Rectángulo_5061" data-name="Rectángulo 5061" width="95.757" height="30.131" transform="translate(0 4.495)" fill="#732be5"/>
+      <rect id="Rectángulo_5062" data-name="Rectángulo 5062" width="95.757" height="30.131" transform="translate(110.831 128.858)" fill="#732be5"/>
+      <rect id="Rectángulo_5063" data-name="Rectángulo 5063" width="95.757" height="30.131" transform="translate(228.412)" fill="#732be5"/>
+      <rect id="Rectángulo_5064" data-name="Rectángulo 5064" width="95.757" height="30.131" transform="translate(356.002 132.6)" fill="#732be5"/>
+      <path id="Trazado_100376" data-name="Trazado 100376" d="M679.578,172.632,644.5,198.281l.037-51.379Z" transform="translate(-143.578 -88.978)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5"/>
+      <text id="Fabricante" transform="translate(15.815 22.831)" fill="#fff" font-size="13" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Fabricante</tspan></text>
+      <circle id="Elipse_3975" data-name="Elipse 3975" cx="12.036" cy="12.036" r="12.036" transform="translate(35.842 71.577)" fill="#732be5"/>
+      <circle id="Elipse_3976" data-name="Elipse 3976" cx="12.036" cy="12.036" r="12.036" transform="translate(149.03 71.577)" fill="#732be5"/>
+      <circle id="Elipse_3977" data-name="Elipse 3977" cx="12.036" cy="12.036" r="12.036" transform="translate(264.076 71.577)" fill="#732be5"/>
+      <circle id="Elipse_3978" data-name="Elipse 3978" cx="12.036" cy="12.036" r="12.036" transform="translate(388.914 71.577)" fill="#732be5"/>
+      <line id="Línea_136" data-name="Línea 136" x2="454.378" transform="translate(48.572 83.613)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5"/>
+      <text id="Minorista" transform="translate(247.174 18.336)" fill="#fff" font-size="13" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Minorista</tspan></text>
+      <text id="Mayorista" transform="translate(129.63 147.193)" fill="#fff" font-size="13" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Mayorista</tspan></text>
+      <text id="Clientes" transform="translate(377.157 150.936)" fill="#fff" font-size="13" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Clientes</tspan></text>
+      <line id="Línea_137" data-name="Línea 137" y1="47.703" transform="translate(47.878 34.627)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5" stroke-dasharray="12"/>
+      <line id="Línea_138" data-name="Línea 138" y1="47.703" transform="translate(161.698 84.253)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5" stroke-dasharray="12"/>
+      <line id="Línea_139" data-name="Línea 139" y1="47.703" transform="translate(276.064 34.627)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5" stroke-dasharray="12"/>
+      <line id="Línea_140" data-name="Línea 140" y1="47.703" transform="translate(400.164 85.929)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5" stroke-dasharray="12"/>
+    </g>
+    <g id="Grupo_53650" data-name="Grupo 53650" transform="translate(-126.786 336.785)">
+      <rect id="Rectángulo_5065" data-name="Rectángulo 5065" width="95.757" height="30.131" transform="translate(0 4.495)" fill="#732be5"/>
+      <rect id="Rectángulo_5066" data-name="Rectángulo 5066" width="95.757" height="30.131" transform="translate(356.002)" fill="#732be5"/>
+      <path id="Trazado_100377" data-name="Trazado 100377" d="M681.278,457.249,646.2,482.9l.036-51.379Z" transform="translate(-145.278 -373.596)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5"/>
+      <text id="Fabricante-2" data-name="Fabricante" transform="translate(15.815 22.831)" fill="#fff" font-size="13" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Fabricante</tspan></text>
+      <circle id="Elipse_3979" data-name="Elipse 3979" cx="12.036" cy="12.036" r="12.036" transform="translate(35.842 71.577)" fill="#732be5"/>
+      <circle id="Elipse_3980" data-name="Elipse 3980" cx="12.036" cy="12.036" r="12.036" transform="translate(388.914 71.577)" fill="#732be5"/>
+      <line id="Línea_141" data-name="Línea 141" x2="454.378" transform="translate(48.572 83.613)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5"/>
+      <text id="Clientes-2" data-name="Clientes" transform="translate(377.157 18.336)" fill="#fff" font-size="13" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Clientes</tspan></text>
+      <line id="Línea_142" data-name="Línea 142" y1="47.703" transform="translate(47.878 34.627)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5" stroke-dasharray="12"/>
+      <line id="Línea_143" data-name="Línea 143" y1="47.703" transform="translate(400.164 22.486)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5" stroke-dasharray="12"/>
+      <g id="Grupo_53649" data-name="Grupo 53649" transform="translate(143.93 71.577)">
+        <g id="Grupo_53648" data-name="Grupo 53648">
+          <rect id="Rectángulo_5067" data-name="Rectángulo 5067" width="161.504" height="30.131" transform="translate(0 57.28)" fill="#732be5"/>
+          <circle id="Elipse_3981" data-name="Elipse 3981" cx="12.036" cy="12.036" r="12.036" transform="translate(68.716)" fill="#732be5"/>
+          <text id="Canal_de_distribución" data-name="Canal de distribución" transform="translate(16.636 75.616)" fill="#fff" font-size="13" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Canal de distribución</tspan></text>
+          <line id="Línea_144" data-name="Línea 144" y1="47.703" transform="translate(80.752 12.676)" fill="none" stroke="#732be5" stroke-miterlimit="10" stroke-width="5" stroke-dasharray="12"/>
+        </g>
+      </g>
+    </g>
+    <text id="Cadena_de_comercio_tradicional" data-name="Cadena de comercio tradicional" transform="translate(-61.084 6.211)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="78.583" y="19">Cadena de comercio tradicional</tspan></text>
+    <text id="Cadena_de_comercio_electrónico" data-name="Cadena de comercio electrónico" transform="translate(-61.084 292.401)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="76.012" y="19">Cadena de comercio electrónico</tspan></text>
+  </g>
+</svg>
