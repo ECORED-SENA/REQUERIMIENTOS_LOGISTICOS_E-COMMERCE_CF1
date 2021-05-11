@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ENLACE-GIT-PAGES-CAMBIAR](https://ENLACE-GIT-PAGES-CAMBIAR)
+[https://ecored-sena.github.io/REQUERIMIENTOS_LOGISTICOS_E-COMMERCE_CF1/](https://ecored-sena.github.io/REQUERIMIENTOS_LOGISTICOS_E-COMMERCE_CF1/)
 
 #
 
