@@ -20,7 +20,7 @@
         p En la siguiente imagen se pueden observar los elementos del sistema de distribución.
 
     .row.mx-auto.mb-4
-      .cajon--rojo.p-4
+      .cajon.color-primario.p-4
         p.px-5 En la logística se asocian varios recursos innovadores que mediante una combinación eficiente ofrecen al cliente un nivel elevado de calidad y confiabilidad, buscando soluciones, y de esta forma incrementan la competitividad y sostenimiento de la empresa.  La experiencia y la competencia permiten encontrar soluciones acordes a cada necesidad.  A continuación, relacionamos los aspectos más relevantes del proceso.
     
     .row.mb-4.justify-content-center
@@ -32,10 +32,19 @@
 
     p.mb-4 Para poder definir las formas de transportación, se deben conocer en primera instancia los tipos de productos (características, pesos, compatibilidad etc.), así como la operación logística del transporte (sitios, frecuencia, volúmenes y pesos), con el objeto de escoger la manera apropiada para un adecuado transporte en función de la naturaleza de la carga, normatividad, economías de escala costos y tiempos de entrega deberán ser una de las prioridades a nivel de transportación.	
     
-    .bloque-texto-d.p-4.mb-4
-      .p.text-regular.bloque-texto-d__texto El transporte juega un papel capital en la interpretación de las interrelaciones físicas y socioeconómicas entre los individuos y grupos en la sociedad; en los análisis de los movimientos de mercancías, personas e información; y en la exploración morfométrica y funcional de las infraestructuras, con el objetivo último de relacionar las restricciones espaciales y los atributos con el origen, extensión, naturaleza y propósito del movimiento. El espacio(geográfico) y movimiento (desplazamiento, intercambio, relación), son dos conceptos básicos que expresan de manera clara el fenómeno del transporte. De dichos conceptos se desprenden tres consideraciones espaciales que debemos examinar con detenimiento. En primer lugar, las redes de transporte, su estructura y organización espacial; en segundo lugar, la demanda espacial de los servicios de transporte y, en tercer lugar, los sistemas surgidos en la compleja dialéctica redes-demanda-espacio. Desde un punto de vista funcional y sistémico, las redes de transporte constituyen el sistema arterial de la organización regional. Están definidas por la estructura de las rutas de carreteras, ferrocarriles o los corredores marítimos y aéreos, entendiéndose como ruta la simple relación o arco entre los nodos que son parte de la red. Los nodos constituyen los focos de generación y atracción de flujos y estos últimos, los elementos transportados a través de las redes (personas, mercancías, información). Sin embargo, el sector económico es importante en el desarrollo del transporte en todas sus esferas. (p.161-174)
+    .bloque-texto-d.color-secundario.p-4.mb-4
+      .bloque-texto-d__texto.mb-2
+        .row
+          .col-lg-1.bloque-comilla-superior
+            i.fas.fa-quote-left
+          .col-lg-11
+            span.h6.text-regular El transporte juega un papel capital en la interpretación de las interrelaciones físicas y socioeconómicas entre los individuos y grupos en la sociedad; en los análisis de los movimientos de mercancías, personas e información; y en la exploración morfométrica y funcional de las infraestructuras, con el objetivo último de relacionar las restricciones espaciales y los atributos con el origen, extensión, naturaleza y propósito del movimiento. El espacio(geográfico) y movimiento (desplazamiento, intercambio, relación), son dos conceptos básicos que expresan de manera clara el fenómeno del transporte. De dichos conceptos se desprenden tres consideraciones espaciales que debemos examinar con detenimiento. En primer lugar, las redes de transporte, su estructura y organización espacial; en segundo lugar, la demanda espacial de los servicios de transporte y, en tercer lugar, los sistemas surgidos en la compleja dialéctica redes-demanda-espacio. Desde un punto de vista funcional y sistémico, las redes de transporte constituyen el sistema arterial de la organización regional. Están definidas por la estructura de las rutas de carreteras, ferrocarriles o los corredores marítimos y aéreos, entendiéndose como ruta la simple relación o arco entre los nodos que son parte de la red. Los nodos constituyen los focos de generación y atracción de flujos y estos últimos, los elementos transportados a través de las redes (personas, mercancías, información). Sin embargo, el sector económico es importante en el desarrollo del transporte en todas sus esferas. (p.161-174)
       .bloque-texto-d__autor
-        .h6.mb-0 Para Martínez, F (2009)
+        .row
+          .col-11
+            .h6.mb-0 Para Martínez, F (2009)
+          .col-1
+            i.fas.fa-quote-right
 
     .row.mb-4
       .col-lg-6.p-4.mt-5.align-self-center

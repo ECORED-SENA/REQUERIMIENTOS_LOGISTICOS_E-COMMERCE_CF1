@@ -82,7 +82,7 @@
 
     .row.mb-5
       .col-lg-6.align-self-center
-        .cajon--azul.p-5.mb-5.mb-lg-0
+        .cajon.color-secundario.p-5.mb-5.mb-lg-0
           p.mb-4 El e-commerce permite la creación de nuevas figuras que tiempo atrás hubieran sido impensables en el comercio tradicional; una característica es que no posee mayor oportunidad de darse a conocer más allá del entorno ya sea: zona, localidad o país a menos que realicen grandes inversiones en estrategias de marketing y publicidad. Sin embargo, cualquier empresa puede mantener este tipo de negocio abriendo espacios globales, incrementando posibilidades de acceso a mercados objetivos y otras empresas a través de la web.
           p.mb-4 Las siguientes imágenes nos muestran una comparación entre la cadena de comercio tradicional y el electrónico.
 

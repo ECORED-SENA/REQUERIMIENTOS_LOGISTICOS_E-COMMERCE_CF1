@@ -115,6 +115,35 @@ export default {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
+      {
+        nombre: 'Nelly Parra Guarín',
+        cargo: 'Experta temática',
+        centro: 'Centro de Gestión Industrial',
+        regional: 'Distrito Capital',
+      },
+      {
+        nombre: 'Paula Andrea Taborda Ortiz',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Diseño y Metrología',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisión Metodológica y Pedagógica',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor pedagógico',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
     ],
     desarrolloProducto: [
       {
@@ -124,6 +153,14 @@ export default {
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
+      },
+      {
+        nombre: 'Blanca Flor Tinoco Torres',
+        cargo: 'Diseñadora Grafica',
+      },
+      {
+        nombre: 'John Andres Ayala Angarita',
+        cargo: 'Desarrollo Front-End',
       },
     ],
     gestoresRepositorio: [
