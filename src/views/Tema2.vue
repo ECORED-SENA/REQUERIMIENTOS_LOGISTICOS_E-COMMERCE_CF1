@@ -66,32 +66,32 @@
             th MODO
             <th colspan="4"> MEDIOS </th>
         tbody
-          tr
+          tr.tabla-custom
             th.text-center Terrestre
             th.text-center Camiones
             th.text-center Camionetas
             th.text-center Carrotanques
             th.text-center Camabajas niñeras
-          tr
+          tr.tabla-custom-medios
             <td colspan="5" style="text-align: center;">Es muy versátil. Por su velocidad frente a la capacidad para prestar servicio puerta a puerta, este modo es el más asequible para cualquier tipo de empresa.</td>
-          tr
+          tr.tabla-custom
             th.text-center Marítimo
             th.text-center Buques petroleros, portacontenedores
             th.text-center Buques graneleros
             th.text-center Buques frigoríficos
             th.text-center Buques carga general
-          tr
+          tr.tabla-custom-medios
             <td colspan="5" style="text-align: center;"> Tienen ventajas sobre los otros modos, porque pueden cargar embarques de grandes dimensiones y peso. Es tan dinámico que ofrece un tipo de buque para cada tipo de carga que se necesite transportar, no importa la naturaleza. </td>
-          tr
+          tr.tabla-custom
             th.text-center Aéreo
             <th colspan="2" style="text-align: center;"> Avión </th>
             <th colspan="2" style="text-align: center;"> Helicóptero </th>
-          tr
+          tr.tabla-custom-medios
             <td colspan="5" style="text-align: center;">Es el más veloz, pero también resulta el más costoso de todos los medios de transporte; se hace indispensable en envíos urgentes principalmente para mercancías perecederas o de alto valor.</td>
-          tr
+          tr.tabla-custom
             th.text-center Férreo o Ferroviario
             <th colspan="4" style="text-align: center;"> Tren -Ferrocarril</th>
-          tr
+          tr.tabla-custom-medios
             <td colspan="5" style="text-align: center; backgroung-color:none;">Equipos especializados con vagones sellados, sillas, vagones planos con contenedores. Generalmente cargan mercancías a granel como carbón, granos, y también los hay como planchones para cargar contenedores.  En Colombia no se tiene infraestructura de vías ferroviarias.</td>
     
     .col-lg.mb-5
@@ -107,10 +107,10 @@
           th La velocidad de circulación
           td Son los tiempos transcurridos durante el movimiento o tráfico. El flete aéreo es el más rápido de todos los modos de transporte. La mercancía se encuentra quieta (en sentido que está en tránsito), dispuesta, para los embarques o transbordos, salidas o llegadas.
         tr
-          th La disponibilidad
+          th.tabla-custom-b La disponibilidad
           td Se refiere a la capacidad de un modo de transporte para dar servicio a cualquier lugar. Los camiones tienen la mayor disponibilidad porque se pueden conducir directamente a los puntos de origen y destino y la oferta en la mayoría de los casos supera la demanda. El punto diferencial puede ser la tecnología y la calidad del servicio.
         tr
-          th La confiabilidad
+          th.tabla-custom-b La confiabilidad
           td Es la confianza o el goodwill o buena fama. Es la posible variación entre lo programado en la entrega de mercancía esperada u ofertada. Los ductos, debido a su servicio continuo y escasas interferencias por el clima o congestionamientos, son los de mayor confiabilidad.
         tr
           th La capacidad
