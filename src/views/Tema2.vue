@@ -15,7 +15,7 @@
       .col-lg-7
         figure
           img(src="@/assets/curso/img3.svg", alt="Elementos del sistema")
-      .col-lg-5
+      .col-lg-5.align-self-center
         p.mb-4 Un despacho incompleto, equivocado o en malas condiciones para el cliente final, afecta el buen nombre de la empresa, conlleva a la posible pérdida del cliente y propicia en otros clientes poca credibilidad en el servicio, por esta razón es importante fidelizar a los clientes contando con herramientas tecnológicas donde puedan hacer la trazabilidad de sus envíos.
         p En la siguiente imagen se pueden observar los elementos del sistema de distribución.
 
@@ -23,9 +23,10 @@
       .cajon--rojo.p-4
         p.px-5 En la logística se asocian varios recursos innovadores que mediante una combinación eficiente ofrecen al cliente un nivel elevado de calidad y confiabilidad, buscando soluciones, y de esta forma incrementan la competitividad y sostenimiento de la empresa.  La experiencia y la competencia permiten encontrar soluciones acordes a cada necesidad.  A continuación, relacionamos los aspectos más relevantes del proceso.
     
-    .row-mx-auto.mb-4
-      figure
-        img(src="@/assets/curso/img4.svg", alt="Estructura Logistica")
+    .row.mb-4.justify-content-center
+      .col-lg-9
+        figure
+          img(src="@/assets/curso/img4.svg", alt="Estructura Logistica")
     #t_2_1.titulo-segundo
       .h4 2.1 Naturaleza de la carga (medios y modos de transporte)
 
@@ -36,8 +37,8 @@
       .bloque-texto-d__autor
         .h6.mb-0 Para Martínez, F (2009)
 
-    .row.mb-4.pt-4
-      .col-lg-6.p-4.mt-5
+    .row.mb-4
+      .col-lg-6.p-4.mt-5.align-self-center
         .p.mb-4 Los modos de transporte son los sistemas para la movilización, utilizados en el traslado de la mercancía desde el punto de origen al punto de destino. Combinan redes, vehículos y operaciones. Los medios de transporte hacen referencia al tipo de vehículos requeridos para la transportación de acuerdo al modo escogido (avión, barco, camión y ferrocarril).
         .p En la siguiente tabla podemos observar cuáles son los modos y medios de transporte y qué ventajas ofrece cada uno de ellos.
       .col-lg-6
@@ -178,12 +179,13 @@
           img(src="@/assets/curso/img10.svg", alt="Carga peligrosa")
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-12
+      .col-10
         p.p-2 A partir de la clasificación de peligro, es importante conocer las áreas de almacenamiento, alistamiento y despacho de mercancías, lo cual permite conocer la compatibilidad o incompatibilidad para el transporte y el almacenamiento de sustancias químicas, tal como se observa a continuación:
 
-    .row.mb-5
-      figure
-        img(src='@/assets/curso/img11.svg', alt='Matriz de productos peligrosos')
+    .row.mb-5.justify-content-center
+      .col-lg-10
+        figure
+          img(src='@/assets/curso/img11.svg', alt='Matriz de productos peligrosos')
     
     hr
 
