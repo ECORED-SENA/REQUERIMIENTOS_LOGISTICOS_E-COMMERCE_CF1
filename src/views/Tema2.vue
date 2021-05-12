@@ -19,9 +19,10 @@
         p.mb-4 Un despacho incompleto, equivocado o en malas condiciones para el cliente final, afecta el buen nombre de la empresa, conlleva a la posible pérdida del cliente y propicia en otros clientes poca credibilidad en el servicio, por esta razón es importante fidelizar a los clientes contando con herramientas tecnológicas donde puedan hacer la trazabilidad de sus envíos.
         p En la siguiente imagen se pueden observar los elementos del sistema de distribución.
 
-    .row.mx-auto.mb-4
-      .cajon.color-primario.p-4
-        p.px-5 En la logística se asocian varios recursos innovadores que mediante una combinación eficiente ofrecen al cliente un nivel elevado de calidad y confiabilidad, buscando soluciones, y de esta forma incrementan la competitividad y sostenimiento de la empresa.  La experiencia y la competencia permiten encontrar soluciones acordes a cada necesidad.  A continuación, relacionamos los aspectos más relevantes del proceso.
+    .row.mb-4
+      .cajon.color-primario.p-4.mb-4
+        h5
+        p En la logística se asocian varios recursos innovadores que mediante una combinación eficiente ofrecen al cliente un nivel elevado de calidad y confiabilidad, buscando soluciones, y de esta forma incrementan la competitividad y sostenimiento de la empresa.  La experiencia y la competencia permiten encontrar soluciones acordes a cada necesidad.  A continuación, relacionamos los aspectos más relevantes del proceso.
     
     .row.mb-4.justify-content-center
       .col-lg-9
@@ -92,7 +93,7 @@
             <td colspan="5" style="text-align: center; backgroung-color:none;">Equipos especializados con vagones sellados, sillas, vagones planos con contenedores. Generalmente cargan mercancías a granel como carbón, granos, y también los hay como planchones para cargar contenedores.  En Colombia no se tiene infraestructura de vías ferroviarias.</td>
     
     .col-lg.mb-5
-      .cajon--azul.p-4.mb-5.mb-lg-0
+      .cajon.color-secundario.p-4.mb-5.mb-lg-0
         p Tenga en cuenta que, en el cálculo, determinación, evaluación de la capacidad y número de modos de transporte a utilizar, es necesario considerar los aspectos que pueden determinar la comparación de alternativas para estructurar los costos. Entre ellos se encuentra la velocidad de circulación, disponibilidad, confiablidad y capacidad y frecuencia. En la siguiente tabla se presentan algunos elementos que permiten analizar las diferentes alternativas.
 
     .tabla-b.mb-5
@@ -117,7 +118,7 @@
           td Está relacionada con la cantidad de movimientos programados. Los ductos destacan la frecuencia para dar un servicio continuo entre los puntos de origen y destino. Da confianza en el transporte relacionado con el flete.
     
     .col-lg.mb-5
-      .cajon--azul.p-4.mb-5.mb-lg-0
+      .cajon.color-secundario.p-4.mb-5.mb-lg-0
         p Finalmente, una vez se tengan identificados los medios y modos de transporte, se deben contemplar medidas que permitan un sistema de transporte intermodal, en donde se realiza la identificación de centros industriales, puertos y fronteras; cadenas logísticas para transporte; localización de puntos estratégicos para intercambio modal de la mercancía o carga.
 
     #t_2_2.titulo-segundo

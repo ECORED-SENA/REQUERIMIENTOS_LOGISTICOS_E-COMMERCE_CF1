@@ -31,8 +31,9 @@
               li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-chevron-right]] Generación de conocimiento y confianza hacia el sector.
     
     .row.mx-auto.mb-5
-      .cajon--rojo.p-4
-        p.px-5 Al cierre del 2019, la CCCE cuenta con alrededor de 300 empresas afiliadas, de las cuales el 53 % corresponde a proveedores tecnológicos y el 47 % a tiendas online, además de trabajar en iniciativas como el sello de confianza para pasarelas de pago y diversas mesas de trabajo interinstitucionales, vinculando entidades como MinTIC, MinCit, ProColombia, entre otras.
+      .cajon.color-primario.p-4
+        h5
+        p Al cierre del 2019, la CCCE cuenta con alrededor de 300 empresas afiliadas, de las cuales el 53 % corresponde a proveedores tecnológicos y el 47 % a tiendas online, además de trabajar en iniciativas como el sello de confianza para pasarelas de pago y diversas mesas de trabajo interinstitucionales, vinculando entidades como MinTIC, MinCit, ProColombia, entre otras.
 
     
     .row.justify-content-center.align-items-center.mb-5
