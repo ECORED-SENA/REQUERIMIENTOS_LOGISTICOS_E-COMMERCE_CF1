@@ -24,6 +24,8 @@
         h5
         p En la logística se asocian varios recursos innovadores que mediante una combinación eficiente ofrecen al cliente un nivel elevado de calidad y confiabilidad, buscando soluciones, y de esta forma incrementan la competitividad y sostenimiento de la empresa.  La experiencia y la competencia permiten encontrar soluciones acordes a cada necesidad.  A continuación, relacionamos los aspectos más relevantes del proceso.
     
+    h4.mb-4.text-center Estructura de Logística
+    
     .row.mb-4.justify-content-center
       .col-lg-9
         figure
