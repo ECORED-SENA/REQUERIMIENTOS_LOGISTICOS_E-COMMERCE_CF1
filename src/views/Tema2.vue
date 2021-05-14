@@ -19,23 +19,22 @@
         p.mb-4 Un despacho incompleto, equivocado o en malas condiciones para el cliente final, afecta el buen nombre de la empresa, conlleva a la posible pérdida del cliente y propicia en otros clientes poca credibilidad en el servicio, por esta razón es importante fidelizar a los clientes contando con herramientas tecnológicas donde puedan hacer la trazabilidad de sus envíos.
         p En la siguiente imagen se pueden observar los elementos del sistema de distribución.
 
-    .row.mb-4
+    .row.mb-5
       .cajon.color-primario.p-4.mb-4
-        h5
         p En la logística se asocian varios recursos innovadores que mediante una combinación eficiente ofrecen al cliente un nivel elevado de calidad y confiabilidad, buscando soluciones, y de esta forma incrementan la competitividad y sostenimiento de la empresa.  La experiencia y la competencia permiten encontrar soluciones acordes a cada necesidad.  A continuación, relacionamos los aspectos más relevantes del proceso.
     
-    h4.mb-4.text-center Estructura de Logística
+    h4.mb-5.text-center Estructura de Logística
     
-    .row.mb-4.justify-content-center
-      .col-lg-9
+    .row.mb-5.justify-content-center
+      .col-lg-9.mt-2
         figure
           img(src="@/assets/curso/img4.svg", alt="Estructura Logistica")
-    #t_2_1.titulo-segundo
+    #t_2_1.titulo-segundo.titulo-margin
       .h4 2.1 Naturaleza de la carga (medios y modos de transporte)
 
-    p.mb-4 Para poder definir las formas de transportación, se deben conocer en primera instancia los tipos de productos (características, pesos, compatibilidad etc.), así como la operación logística del transporte (sitios, frecuencia, volúmenes y pesos), con el objeto de escoger la manera apropiada para un adecuado transporte en función de la naturaleza de la carga, normatividad, economías de escala costos y tiempos de entrega deberán ser una de las prioridades a nivel de transportación.	
+    p.mb-5 Para poder definir las formas de transportación, se deben conocer en primera instancia los tipos de productos (características, pesos, compatibilidad etc.), así como la operación logística del transporte (sitios, frecuencia, volúmenes y pesos), con el objeto de escoger la manera apropiada para un adecuado transporte en función de la naturaleza de la carga, normatividad, economías de escala costos y tiempos de entrega deberán ser una de las prioridades a nivel de transportación.	
     
-    .bloque-texto-d.color-secundario.p-4.mb-4
+    .bloque-texto-d.color-secundario.p-4.mb-5
       .bloque-texto-d__texto.mb-2
         .row
           .col-lg-1.bloque-comilla-superior
@@ -49,8 +48,8 @@
           .col-1
             i.fas.fa-quote-right
 
-    .row.mb-4
-      .col-lg-6.p-4.mt-5.align-self-center
+    .row.mb-5
+      .col-lg-6.p-4.align-self-center
         .p.mb-4 Los modos de transporte son los sistemas para la movilización, utilizados en el traslado de la mercancía desde el punto de origen al punto de destino. Combinan redes, vehículos y operaciones. Los medios de transporte hacen referencia al tipo de vehículos requeridos para la transportación de acuerdo al modo escogido (avión, barco, camión y ferrocarril).
         .p En la siguiente tabla podemos observar cuáles son los modos y medios de transporte y qué ventajas ofrece cada uno de ellos.
       .col-lg-6
@@ -73,7 +72,7 @@
             th.text-center Carrotanques
             th.text-center Camabajas niñeras
           tr.tabla-custom-medios
-            <td colspan="5" style="text-align: center;">Es muy versátil. Por su velocidad frente a la capacidad para prestar servicio puerta a puerta, este modo es el más asequible para cualquier tipo de empresa.</td>
+            <td colspan="5" style="text-align: center; padding: 28px;">Es muy versátil. Por su velocidad frente a la capacidad para prestar servicio puerta a puerta, este modo es el más asequible para cualquier tipo de empresa.</td>
           tr.tabla-custom
             th.text-center Marítimo
             th.text-center Buques petroleros, portacontenedores
@@ -81,18 +80,18 @@
             th.text-center Buques frigoríficos
             th.text-center Buques carga general
           tr.tabla-custom-medios
-            <td colspan="5" style="text-align: center;"> Tienen ventajas sobre los otros modos, porque pueden cargar embarques de grandes dimensiones y peso. Es tan dinámico que ofrece un tipo de buque para cada tipo de carga que se necesite transportar, no importa la naturaleza. </td>
+            <td colspan="5" style="text-align: center; padding: 28px;"> Tienen ventajas sobre los otros modos, porque pueden cargar embarques de grandes dimensiones y peso. Es tan dinámico que ofrece un tipo de buque para cada tipo de carga que se necesite transportar, no importa la naturaleza. </td>
           tr.tabla-custom
             th.text-center Aéreo
             <th colspan="2" style="text-align: center;"> Avión </th>
             <th colspan="2" style="text-align: center;"> Helicóptero </th>
           tr.tabla-custom-medios
-            <td colspan="5" style="text-align: center;">Es el más veloz, pero también resulta el más costoso de todos los medios de transporte; se hace indispensable en envíos urgentes principalmente para mercancías perecederas o de alto valor.</td>
+            <td colspan="5" style="text-align: center; padding: 28px;">Es el más veloz, pero también resulta el más costoso de todos los medios de transporte; se hace indispensable en envíos urgentes principalmente para mercancías perecederas o de alto valor.</td>
           tr.tabla-custom
             th.text-center Férreo o Ferroviario
             <th colspan="4" style="text-align: center;"> Tren -Ferrocarril</th>
           tr.tabla-custom-medios
-            <td colspan="5" style="text-align: center; backgroung-color:none;">Equipos especializados con vagones sellados, sillas, vagones planos con contenedores. Generalmente cargan mercancías a granel como carbón, granos, y también los hay como planchones para cargar contenedores.  En Colombia no se tiene infraestructura de vías ferroviarias.</td>
+            <td colspan="5" style="text-align: center; padding: 28px; backgroung-color:none;">Equipos especializados con vagones sellados, sillas, vagones planos con contenedores. Generalmente cargan mercancías a granel como carbón, granos, y también los hay como planchones para cargar contenedores.  En Colombia no se tiene infraestructura de vías ferroviarias.</td>
     
     .col-lg.mb-5
       .cajon.color-secundario.p-4.mb-5.mb-lg-0

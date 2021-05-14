@@ -13,6 +13,9 @@
   left: 24%
   bottom: 2%
 
+.cajon.color-primario:before 
+  background-color: #732be5
+
 .bloque-comilla-superior
   margin-top: -2%
 .bloque-custom
@@ -35,18 +38,46 @@
 .tabla-custom-medios
   background-color: #ffffff !important
   
-
-.tarjeta-infografia
-  border-radius: 0%
-  
 .tarjeta--azul
   background-color: #f4f4f5
+  border-radius: 0%
+  align-self: center
 
+.tarjeta-Avatar-b
+  position: relative !important
+
+.tarjetar:before  //linea lateral derecha
+  content: ''
+  background-color:   #732be5
+  width: 7px
+  height: 80px
+  display: block
+  position: absolute
+  right: -7px
+  top: 50%
+  transform: translateY(-50%)
+
+.tarjetar-izq:before //linea lateral izquierda
+  content: ''
+  background-color:   #732be5
+  width: 7px
+  height: 80px
+  display: block
+  position: absolute
+  left: -7px
+  top: 50%
+  transform: translateY(-50%)
 .tarjeta-avatar-der
   margin-left: 0%  !important
   padding-left: 0% !important
   margin-right: -5% !important
-  border-left:  6px solid  #673AB7
   
-.tajerta-linea-der
-  border-right:  6px solid  #673AB7
+  //border-left:  6px solid  #673AB7
+  
+
+//.tajerta-linea-der
+  //border-right:  6px solid  #732be5
+
+
+.titulo-margin
+  margin-top: 10%
