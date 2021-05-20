@@ -202,7 +202,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        .row.justify-content-end
+        .row.justify-content-center
           .col-10 
              ul.fa-ul
               li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-check]] #[strong Perecedera:] por su misma naturaleza de vencimiento rápido para el consumo, requiere de rapidez y de condiciones especiales en el transporte y el almacenamiento, como por ejemplo: las frutas, las verduras, la carne fresca, el  pescado y las flores.
@@ -213,7 +213,7 @@
     hr
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        .row.justify-content-end
+        .row.justify-content-center
           .col-10
             ul.fa-ul
               li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-check]] #[strong Extradimensionada:] es la carga que excede en peso y volumen el flete convencional, es decir, rebasa las dimensiones de la carrocería de los vehículos autorizados por el Ministerio de Transporte.
