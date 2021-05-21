@@ -18,10 +18,10 @@
       .col-lg-7.bloque-custom-a.p-4
         .row.justify-content-center
           .col-12.bloque-custom
-            p.p-4 A lo largo de sus dos años de labores, el observatorio eCommerce ha publicado estudios como el estudio de oferta y demanda del comercio electrónico en Colombia 2018, el cuarto estudio de transacciones digitales 2016-2017, el estudio del marco regulatorio del eCommerce en los países de la OECD y Colombia – objetivos y alcance, el manual de buenas prácticas para pasarelas de pago, el estudio de transacciones digitales 2018, entre otros.
+            p.p-4 A lo largo de sus dos años de labores, el observatorio eCommerce ha publicado estudios como de oferta y demanda del comercio electrónico en Colombia 2018, el cuarto estudio de transacciones digitales 2016-2017, el estudio del marco regulatorio del eCommerce en los países de la OECD y Colombia – objetivos y alcance, el manual de buenas prácticas para pasarelas de pago, el estudio de transacciones digitales 2018, entre otros.
             p.p-4 Paralelamente, en 2017 la CCCE convencida de su rol de servicio como dinamizadora entre los diversos participantes del sector, creó el eCommerce Summit, un congreso internacional de comercio electrónico que otorga espacios de empoderamiento, diálogos y conocimiento entre los principales actores del comercio electrónico.
       
-    p.mb-4 Actualmente, la Cámara Colombiana de Comercio Electrónico cuenta cuatro gerencias (administrativa y financiera, políticas públicas y asuntos legales, análisis económico, y marketing y gestión comercial) los cuales dan respuesta a las necesidades del sector, siempre en línea con los tres pilares fundamentales de la organización:
+    p.mb-4 Actualmente, la Cámara Colombiana de Comercio Electrónico cuenta cuatro gerencias (administrativa y financiera, políticas públicas y asuntos legales, análisis económico, marketing y gestión comercial) los cuales dan respuesta a las necesidades del sector, siempre en línea con los tres pilares fundamentales de la organización:
 
     .row.justify-content-end.align-items-center.mb-4
       .col-12.col-lg-11
@@ -82,14 +82,14 @@
         p.mb-4 Otra normativa es el decreto 1747 de 2000, por medio del cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones. Y que relaciona ampliamente las entidades de certificación y certificados digitales, art. 2 al 25. Facultades de la Superintendencia de Industria y Comercio Art 26 a 28.
         p.mb-4 Uno de los aspectos importantes en la normativa e-commerce es la protección de datos personales, la cual se debe incluir en las transacciones mediante el derecho de hábeas data y se rige por las siguientes leyes:
 
-        a.anexo.mb-4.mb-lg-0(href="https://www.ccce.org.co/preguntas-frecuentes/#1576774113499-57f66893-8bbf" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.secretariajuridica.gov.co/transparencia/marco-legal/normatividad/ley-1266-2008" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto           
             p #[strong Enlace web.] Se exponen las disposiciones generales del habeas data y se regula el manejo de la información contenidas en las bases de datos personales, especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan nuevas disposiciones.
         br
 
-        a.anexo.mb-4.mb-lg-0(href="https://www.ccce.org.co/preguntas-frecuentes/#1576774113499-57f66893-8bbf" target="_blank")
+        a.anexo.mb-4.mb-lg-0(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981#:~:text=La%20presente%20ley%20tiene%20por,el%20art%C3%ADculo%2015%20de%20la" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto

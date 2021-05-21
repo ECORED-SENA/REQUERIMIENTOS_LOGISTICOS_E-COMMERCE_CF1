@@ -6,7 +6,12 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 2
-      .h3 Logística y transporte
+      .h3 Logística y transporte 
+
+    figure.mb-5
+      .video
+        iframe(width="969" height="545" src="https://www.youtube.com/embed/jB13jaw_HPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Logistica y transporte
     
     p.mb-4 El éxito de toda empresa está en ser eficiente y eficaz en su sistema logístico, en donde todos los elementos y actores que intervienen en ella optimicen los recursos para satisfacer las necesidades del consumidor final. Para cumplir este fin deben tenerse eficientes modos y medios de transporte que permitan transportar todo tipo de mercancía de un lugar a otro con calidad y confiabilidad en el menor tiempo posible.
     p.mb-4 Los diversos tipos existentes de transporte se relacionan en la cadena logística entre los actores:  productores, fabricantes, comerciales y distribuidores, y se conoce como última milla.
@@ -32,7 +37,7 @@
     #t_2_1.titulo-segundo.titulo-margin
       .h4 2.1 Naturaleza de la carga (medios y modos de transporte)
 
-    p.mb-5 Para poder definir las formas de transportación, se deben conocer en primera instancia los tipos de productos (características, pesos, compatibilidad etc.), así como la operación logística del transporte (sitios, frecuencia, volúmenes y pesos), con el objeto de escoger la manera apropiada para un adecuado transporte en función de la naturaleza de la carga, normatividad, economías de escala costos y tiempos de entrega deberán ser una de las prioridades a nivel de transportación.	
+    p.mb-5 Para poder definir las formas de transportación, se deben conocer en primera instancia los tipos de productos (características, pesos, compatibilidad etc.), así como la operación logística del transporte (sitios, frecuencia, volúmenes y pesos), con el objeto de escoger la manera apropiada para un adecuado transporte en función de la naturaleza de la carga, normatividad, economías de escala, costos y tiempos de entrega deberán ser una de las prioridades a nivel de transportación.	
     
     .bloque-texto-d.color-secundario.p-4.mb-5
       .bloque-texto-d__texto.mb-2
@@ -40,7 +45,7 @@
           .col-lg-1.bloque-comilla-superior
             i.fas.fa-quote-left
           .col-lg-11
-            span.h6.text-regular El transporte juega un papel capital en la interpretación de las interrelaciones físicas y socioeconómicas entre los individuos y grupos en la sociedad; en los análisis de los movimientos de mercancías, personas e información; y en la exploración morfométrica y funcional de las infraestructuras, con el objetivo último de relacionar las restricciones espaciales y los atributos con el origen, extensión, naturaleza y propósito del movimiento. El espacio(geográfico) y movimiento (desplazamiento, intercambio, relación), son dos conceptos básicos que expresan de manera clara el fenómeno del transporte. De dichos conceptos se desprenden tres consideraciones espaciales que debemos examinar con detenimiento. En primer lugar, las redes de transporte, su estructura y organización espacial; en segundo lugar, la demanda espacial de los servicios de transporte y, en tercer lugar, los sistemas surgidos en la compleja dialéctica redes-demanda-espacio. Desde un punto de vista funcional y sistémico, las redes de transporte constituyen el sistema arterial de la organización regional. Están definidas por la estructura de las rutas de carreteras, ferrocarriles o los corredores marítimos y aéreos, entendiéndose como ruta la simple relación o arco entre los nodos que son parte de la red. Los nodos constituyen los focos de generación y atracción de flujos y estos últimos, los elementos transportados a través de las redes (personas, mercancías, información). Sin embargo, el sector económico es importante en el desarrollo del transporte en todas sus esferas. (p.161-174)
+            span.h6.text-regular El transporte juega un papel capital en la interpretación de las interrelaciones físicas y socioeconómicas entre los individuos y grupos en la sociedad; en los análisis de los movimientos de mercancías, personas e información; y en la exploración morfométrica y funcional de las infraestructuras, con el objetivo último de relacionar las restricciones espaciales y los atributos con el origen, extensión, naturaleza y propósito del movimiento. El espacio (geográfico) y movimiento (desplazamiento, intercambio, relación), son dos conceptos básicos que expresan de manera clara el fenómeno del transporte. De dichos conceptos se desprenden tres consideraciones espaciales que debemos examinar con detenimiento. En primer lugar, las redes de transporte, su estructura y organización espacial; en segundo lugar, la demanda espacial de los servicios de transporte y, en tercer lugar, los sistemas surgidos en la compleja dialéctica (redes-demanda-espacio). Desde un punto de vista funcional y sistémico, las redes de transporte constituyen el sistema arterial de la organización regional. Están definidas por la estructura de las rutas de carreteras, ferrocarriles o los corredores marítimos y aéreos, entendiéndose como ruta la simple relación o arco entre los nodos que son parte de la red. Los nodos constituyen los focos de generación y atracción de flujos, estos últimos, los elementos transportados a través de las redes (personas, mercancías, información) Sin embargo, el sector económico es importante en el desarrollo del transporte en todas sus esferas. (p.161-174)
       .bloque-texto-d__autor
         .row
           .col-11
@@ -95,7 +100,7 @@
     
     .col-lg.mb-5
       .cajon.color-secundario.p-4.mb-5.mb-lg-0
-        p Tenga en cuenta que, en el cálculo, determinación, evaluación de la capacidad y número de modos de transporte a utilizar, es necesario considerar los aspectos que pueden determinar la comparación de alternativas para estructurar los costos. Entre ellos se encuentra la velocidad de circulación, disponibilidad, confiablidad y capacidad y frecuencia. En la siguiente tabla se presentan algunos elementos que permiten analizar las diferentes alternativas.
+        p Tenga en cuenta que, en el cálculo, determinación, evaluación de la capacidad y número de modos de transporte a utilizar, es necesario considerar los aspectos que pueden determinar la comparación de alternativas para estructurar los costos. Entre ellos se encuentra la velocidad de circulación, disponibilidad, confiabilidad, capacidad y frecuencia. En la siguiente tabla se presentan algunos elementos que permiten analizar las diferentes alternativas.
 
     .tabla-b.mb-5
       .tabla-b__header
@@ -107,10 +112,10 @@
           td Son los tiempos transcurridos durante el movimiento o tráfico. El flete aéreo es el más rápido de todos los modos de transporte. La mercancía se encuentra quieta (en sentido que está en tránsito), dispuesta, para los embarques o transbordos, salidas o llegadas.
         tr
           th.tabla-custom-b La disponibilidad
-          td Se refiere a la capacidad de un modo de transporte para dar servicio a cualquier lugar. Los camiones tienen la mayor disponibilidad porque se pueden conducir directamente a los puntos de origen y destino y la oferta en la mayoría de los casos supera la demanda. El punto diferencial puede ser la tecnología y la calidad del servicio.
+          td Se refiere a la capacidad de un modo de transporte para dar servicio a cualquier lugar. Los camiones tienen la mayor disponibilidad porque se pueden conducir directamente a los puntos de origen y destino, y la oferta en la mayoría de los casos supera la demanda. El punto diferencial puede ser la tecnología y la calidad del servicio.
         tr
           th.tabla-custom-b La confiabilidad
-          td Es la confianza o el goodwill o buena fama. Es la posible variación entre lo programado en la entrega de mercancía esperada u ofertada. Los ductos, debido a su servicio continuo y escasas interferencias por el clima o congestionamientos, son los de mayor confiabilidad.
+          td Es la confianza, el goodwill o buena fama. Es la posible variación entre lo programado en la entrega de mercancía esperada u ofertada. Los ductos, debido a su servicio continuo y escasas interferencias por el clima o congestionamientos, son los de mayor confiabilidad.
         tr
           th La capacidad
           td La constituye el peso aceptado en el medio seleccionado y las dimensiones de la mercancía en los diferentes implementos usados. Es la posibilidad de que un modo de transporte referido, maneje cualquier requerimiento del transporte como el tamaño de la carga. El transporte acuático es el de mayor capacidad.
@@ -127,7 +132,7 @@
 
     p.mb-5 Para determinar cuáles son las actividades a realizar en la cadena de suministro, buscando una agilidad en el despacho, es necesario identificar los tipos de carga logística, así evitaremos dificultades en el transporte de cualquier tipo de mercancías y cumpliremos llevando un desarrollo sin retrasos en el proceso. La mercancía que requiere ser movilizada físicamente por cualquier modo de transporte, debe estar protegida por un embalaje para facilitar su manejo, con el propósito de realizar una manutención eficaz para su despacho. A continuación, se presentan los tipos de carga más utilizados:
 
-    TabsC.mb-5
+    TabsC.color-primario.mb-5
       
       .py-3.py-md-4(titulo="Carga general")
         .row
@@ -189,12 +194,11 @@
         figure
           img(src="@/assets/curso/img10.svg", alt="Carga peligrosa")
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-10
         p.p-2 A partir de la clasificación de peligro, es importante conocer las áreas de almacenamiento, alistamiento y despacho de mercancías, lo cual permite conocer la compatibilidad o incompatibilidad para el transporte y el almacenamiento de sustancias químicas, tal como se observa a continuación:
 
     .row.mb-5.justify-content-center
-      .col-lg-10
         figure
           img(src='@/assets/curso/img11.svg', alt='Matriz de productos peligrosos')
     

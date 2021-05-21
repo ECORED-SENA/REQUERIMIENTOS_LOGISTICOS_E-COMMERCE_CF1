@@ -12,10 +12,10 @@
 
     .row.mb-4
       .col-lg-7
-        .cajon--azul.p-4
+        .cajon.color-secundario.p-4
           p.mb-3 Pero desarrollar un modelo de negocio exitoso, por muy novedoso que sea, no es suficiente en sí mismo para garantizar una ventaja competitiva. Una vez implantados, los elementos de los modelos de negocio suelen ser bastante transparentes y en principio fáciles de imitar; de hecho, suele ser cuestión de unos pocos años, si no de meses, que un nuevo modelo de negocio
           p En los tiempos de Covid-19 ha crecido el uso de la tecnología y se ha vuelto una necesidad indispensable a nivel empresarial para su sostenibilidad en las relaciones comerciales. La empresa de hoy debe adaptarse a las nuevas tecnologías para mantenerse en el mercado. Las maneras de compra y venta tradicionales para las negociaciones se han modificado debido al mayor uso de las herramientas informáticas. La confianza en las transacciones son servicios del e-commerce que se encuentran como valor agregado a la disminución de costos, ocasionan mayor manufactura, agilidad y calidad en un menor tiempo, lo que la hace más competitiva
-      .col-lg-5.align-self-center
+      .col-lg-5.align-self-center.justify-content-center
         figure
           img(src='@/assets/curso/img17.svg', alt='Modelo de negociación')
 
