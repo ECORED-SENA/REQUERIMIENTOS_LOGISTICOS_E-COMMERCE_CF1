@@ -130,6 +130,11 @@
     #t_2_2.titulo-segundo
       .h4 2.2 Tipos de carga y transporte (características carga)
 
+    figure.mb-5
+      .video
+        iframe(width="734" height="413" src="https://www.youtube.com/embed/Ud-Kt10HbDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Tipos de carga
+
     p.mb-5 Para determinar cuáles son las actividades a realizar en la cadena de suministro, buscando una agilidad en el despacho, es necesario identificar los tipos de carga logística, así evitaremos dificultades en el transporte de cualquier tipo de mercancías y cumpliremos llevando un desarrollo sin retrasos en el proceso. La mercancía que requiere ser movilizada físicamente por cualquier modo de transporte, debe estar protegida por un embalaje para facilitar su manejo, con el propósito de realizar una manutención eficaz para su despacho. A continuación, se presentan los tipos de carga más utilizados:
 
     TabsC.color-primario.mb-5

@@ -138,12 +138,6 @@ export default {
         cargo: 'Corrección de estilo',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
       },
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
-      },
     ],
     desarrolloProducto: [
       {

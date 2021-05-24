@@ -21,6 +21,11 @@
 
     p.mb-4 En la práctica, los modelos de negocio de éxito suelen ser, en cierta medida, "compartidos" por múltiples competidores. Se conocen diferentes maneras de hacer e-commerce, primeramente, describimos las más usadas:
 
+    figure.mb-5
+      .video
+        iframe(width="734" height="413" src="https://www.youtube.com/embed/5079y-YZe7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Diferentes maneras de hacer e-commerce
+
     .row.mb-4
       .col-lg-7.align-self-center
         figure
