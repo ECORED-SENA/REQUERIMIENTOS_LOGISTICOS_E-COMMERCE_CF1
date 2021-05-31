@@ -218,7 +218,7 @@ export default {
       referencia:
         'Observatorio de Comercio Electrónico en Colombia. (2018). Primera medición de Indicadores de consumo del eCommerce. Colombia. Recuperado de:',
       link:
-        'https://www.observatorioecommerce.com.co/wp-content/uploads/2019/03/estudio-consumo-ecommerce-colombia-observatorio-2019.pdf',
+        'https://www.ccce.org.co/noticias/el-observatorio-ecommerce-presenta-los-resultados-de-sus-estudios-de-medicion-de-oferta-y-demanda-del/',
     },
   ],
   glosario: [
