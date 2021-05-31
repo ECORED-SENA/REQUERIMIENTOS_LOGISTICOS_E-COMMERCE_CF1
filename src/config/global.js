@@ -119,7 +119,7 @@ export default {
         nombre: 'Nelly Parra Guarín',
         cargo: 'Experta temática',
         centro: 'Centro de Gestión Industrial',
-        regional: 'Distrito Capital',
+        regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'Paula Andrea Taborda Ortiz',
@@ -137,26 +137,53 @@ export default {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
         cargo: 'Corrección de estilo',
         centro: 'Centro para la Industria de la Comunicación Gráfica',
+        regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
       {
         nombre: 'Blanca Flor Tinoco Torres',
         cargo: 'Diseñadora Grafica',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
       {
         nombre: 'John Andres Ayala Angarita',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
       },
       {
+        nombre: [
+          'Carlos Eduardo Garavito',
+          'Ricardo Vásquez Arroyave',
+          'Andrés Herrera',
+        ],
+        cargo: 'Producción audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: ['Zuleidy María Ruiz Torres'],
+        cargo: 'Ilustración',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
+        nombre: ['Rafael Augusto Mantilla López'],
+        cargo: 'Validación de diseño y contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
