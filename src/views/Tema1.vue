@@ -25,13 +25,13 @@
         .tarjeta-Avatar-b.mb-2
           img(src='@/assets/curso/1ubicuidad.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
-            p.tarjetar #[strong Ubicuidad:] a través del comercio electrónico la información se encuentra disponible en diferentes escenarios como son el trabajo y el hogar, utilizando dispositivos móviles, tablets o dispositivos electrónicos, permitiendo sea ilimitado tanto en ubicación como en información, facilitando al cliente realizar cualquier tipo de consulta, investigación y compra.
+            p.tarjetar(style="padding-left: 70px;") #[strong Ubicuidad:] a través del comercio electrónico la información se encuentra disponible en diferentes escenarios como son el trabajo y el hogar, utilizando dispositivos móviles, tablets o dispositivos electrónicos, permitiendo sea ilimitado tanto en ubicación como en información, facilitando al cliente realizar cualquier tipo de consulta, investigación y compra.
 
     .row.justify-content-center
       .col-lg-10
         .tarjeta-Avatar-b.mb-2   
           .tarjeta.tarjeta--azul.p-4.tarjeta-avatar-der
-            p.tarjetar-izq #[strong Alcance global:] el entorno de estas tecnologías va más allá de los límites locales, regionales, nacionales creando un marketplace, es decir, un mercado en línea, entre millones de usuarios y negocios en todo el mundo.
+            p.tarjetar-izq(style="padding-left: 70px;") #[strong Alcance global:] el entorno de estas tecnologías va más allá de los límites locales, regionales, nacionales creando un marketplace, es decir, un mercado en línea, entre millones de usuarios y negocios en todo el mundo.
           img(src='@/assets/curso/2alcance.svg' alt='AvatarTop')
     
     .row.justify-content-center
@@ -39,13 +39,13 @@
         .tarjeta-Avatar-b.mb-2
           img(src='@/assets/curso/3estandar.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
-            p.tarjetar #[strong Estándares universales:] posibilita el uso de internet a nivel de hardware y software para todo el mundo en formatos estándares definidos.
+            p.tarjetar(style="padding-left: 70px;") #[strong Estándares universales:] posibilita el uso de internet a nivel de hardware y software para todo el mundo en formatos estándares definidos.
 
     .row.justify-content-center
       .col-lg-10
         .tarjeta-Avatar-b.mb-2   
           .tarjeta.tarjeta--azul.p-4.tarjeta-avatar-der
-            p.tarjetar-izq #[strong Riqueza:] la comercialización se da mediante mensajes de video, audio y texto, integrando a los interlocutores, generando un escenario apto para consumo y comercialización.
+            p.tarjetar-izq(style="padding-left: 70px;") #[strong Riqueza:] la comercialización se da mediante mensajes de video, audio y texto, integrando a los interlocutores, generando un escenario apto para consumo y comercialización.
           img(src='@/assets/curso/4riqueza.svg' alt='AvatarTop')
     
     .row.justify-content-center
@@ -53,13 +53,13 @@
         .tarjeta-Avatar-b.mb-2
           img(src='@/assets/curso/5interactividad.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
-            p.tarjetar #[strong Interactividad:] garantiza la interacción entre proveedores y consumidores facilitando la consulta, publicidad, transferencia de información y la negociación.
+            p.tarjetar(style="padding-left: 70px;") #[strong Interactividad:] garantiza la interacción entre proveedores y consumidores facilitando la consulta, publicidad, transferencia de información y la negociación.
 
     .row.justify-content-center
       .col-lg-10
         .tarjeta-Avatar-b.mb-2   
           .tarjeta.tarjeta--azul.p-4.tarjeta-avatar-der
-            p.tarjetar-izq #[strong Densidad de la información:] es generador de un importante volumen de información de alta calidad y a su vez optimiza costos de comunicación, procesamiento y almacenamiento donde sus puntos más determinantes son la precisión, calidad y actualización de la misma.
+            p.tarjetar-izq(style="padding-left: 70px;") #[strong Densidad de la información:] es generador de un importante volumen de información de alta calidad y a su vez optimiza costos de comunicación, procesamiento y almacenamiento donde sus puntos más determinantes son la precisión, calidad y actualización de la misma.
           img(src='@/assets/curso/6densidad.svg' alt='AvatarTop')
 
     .row.justify-content-center
@@ -67,13 +67,13 @@
         .tarjeta-Avatar-b.mb-2
           img(src='@/assets/curso/7personalizacion.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
-            p.tarjetar #[strong Personalización:] entregar mensajes de diferente tipo a individuos y grupos objetivos, dependiendo de las necesidades del entorno o escenario.
+            p.tarjetar(style="padding-left: 70px;") #[strong Personalización:] entregar mensajes de diferente tipo a individuos y grupos objetivos, dependiendo de las necesidades del entorno o escenario.
 
     .row.justify-content-center
       .col-lg-10
         .tarjeta-Avatar-b.mb-2   
           .tarjeta.tarjeta--azul.p-4.tarjeta-avatar-der
-            p.tarjetar-izq #[strong Tecnología social:] se genera contenido que soporta usuarios y redes sociales bajo modelos de negocios.
+            p.tarjetar-izq(style="padding-left: 70px;") #[strong Tecnología social:] se genera contenido que soporta usuarios y redes sociales bajo modelos de negocios.
           img(src='@/assets/curso/8tecnologia.svg' alt='AvatarTop')
 
 

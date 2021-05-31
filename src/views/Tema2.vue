@@ -104,7 +104,7 @@
 
     .tabla-b.mb-5
       .tabla-b__header
-        .h6.mb-0 Elementos para capacidad según medios y modos de transporte
+        .h6.mb-0.text-white Elementos para capacidad según medios y modos de transporte
       table
         caption Tabla 2. Elementos según modos y medios. Bowersox, Closs y Cooper, 2007
         tr
@@ -213,11 +213,11 @@
       .col-lg-7
         .row.justify-content-center
           .col-10 
-             ul.fa-ul
+            ul.fa-ul
               li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-check]] #[strong Perecedera:] por su misma naturaleza de vencimiento rápido para el consumo, requiere de rapidez y de condiciones especiales en el transporte y el almacenamiento, como por ejemplo: las frutas, las verduras, la carne fresca, el  pescado y las flores.
       .col-lg-5
         figure
-           img(src='@/assets/curso/img12.svg', alt='Carga perecedera')
+          img(src='@/assets/curso/img12.svg', alt='Carga perecedera')
       
     hr
     .row.justify-content-center.align-items-center.mb-5
