@@ -251,7 +251,7 @@ export default {
   complementario: [
     {
       texto:
-        'Valenzuela, 2019. Dos décadas de la ley de comercio electrónico en colombia',
+        'Valenzuela, 2019. Dos décadas de la ley de comercio electrónico en Colombia',
       tipo: 'Artículo',
       link:
         'https://dernegocios.uexternado.edu.co/comercio-electronico/dos-decadas-de-la-ley-de-comercio-electronico-en-colombia/',

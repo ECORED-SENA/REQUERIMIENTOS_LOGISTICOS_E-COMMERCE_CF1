@@ -25,7 +25,7 @@
 
     .row.justify-content-end.align-items-center.mb-4
       .col-12.col-lg-11
-         ul.fa-ul
+        ul.fa-ul
               li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-chevron-right]] Entendimiento de las dinámicas económicas que determinan al sector e-commerce del país.
               li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-chevron-right]] Contribución a la construcción de políticas públicas que favorezcan a la industria e-commerce.
               li.mb-4 #[span.li--clr.fa-li #[i.fas.fa-chevron-right]] Generación de conocimiento y confianza hacia el sector.
@@ -53,7 +53,7 @@
         .tarjeta-Avatar-b.mb-4
           img(src='@/assets/curso/img14.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-4
-            p.tarjetar.tarjeta-padding-left #[strong Articulo 15:] todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas. En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución. La correspondencia y demás formas de comunicación privada son inviolables. Sólo pueden ser interceptadas o registradas mediante orden judicial, en los casos y con las formalidades que establezca la ley. Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley. Lo anterior es conocido en el medio legal como Habeas Data.
+            p.tarjetar.tarjeta-padding-left #[strong Articulo 15:] todas las personas tienen derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer, actualizar y rectificar las informaciones que se hayan recogido sobre ellas en bancos de datos y en archivos de entidades públicas y privadas. En la recolección, tratamiento y circulación de datos se respetarán la libertad y demás garantías consagradas en la Constitución. La correspondencia y demás formas de comunicación privada son inviolables. Solo pueden ser interceptadas o registradas mediante orden judicial, en los casos y con las formalidades que establezca la ley. Para efectos tributarios o judiciales y para los casos de inspección, vigilancia e intervención del Estado podrá exigirse la presentación de libros de contabilidad y demás documentos privados, en los términos que señale la ley. Lo anterior es conocido en el medio legal como Habeas Data.
     
     .row.justify-content-center
       .col-lg-10
