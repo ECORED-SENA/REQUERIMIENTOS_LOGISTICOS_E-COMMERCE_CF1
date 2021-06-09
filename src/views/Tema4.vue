@@ -29,7 +29,7 @@
     .row.mb-4
       .col-lg-7.align-self-center
         figure
-          img(src='@/assets/curso/img18.svg', alt='Modelos de negocip')
+          img(src='@/assets/curso/img18.svg', alt='Modelos de negocio')
       .col-lg-5
         p #[strong B2B o business to business:] la transacción se realiza entre empresas que operan en internet. 
         p #[strong B2C o business to costumer:] es el comercio entre la empresa que produce, la que vende o prestadora de servicios y el consumidor final. 
